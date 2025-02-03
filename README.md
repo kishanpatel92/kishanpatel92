@@ -1,6 +1,20 @@
 # 💫 About Me:
-Hi! My name is Kishan Patel. I am a Front end Developer, and I'm very passionate and dedicated to my work. With 6+ years of experience as a professional Front end Developer, I have acquired the skills and knowledge necessary to make your project a success.<br><br>I enjoy every step of the design & development process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do. Take a look at my work and if you'd like to discuss your project, please let me know. Through my years of experience as a professional web/graphic designer, I have acquired the skills and knowledge necessary to make your project a success!
+Hi there! I'm Kishan Patel, a Front-End Developer with over 7 years of experience in building responsive, high-performance, and visually appealing web applications. I specialize in React.js, Next.js, Material UI, Bootstrap, and WordPress theme development, delivering custom solutions for businesses of all sizes.
 
+My Core Skills & Expertise:
+
+✅ Front-End Development: HTML5, CSS3, SASS, JavaScript, TypeScript
+✅ React.js & Next.js UI Development
+✅ Material UI & Tailwind CSS for Modern UI/UX
+✅ Bootstrap & Responsive Web Design
+✅ WordPress Theme Customization & Development
+✅ Figma to React, PSD to HTML Conversion
+✅ Cross-Browser Compatibility & Performance Optimization
+✅ Mobile-First & SEO-Friendly Web Development
+
+I have experience working in both freelance and full-time roles, collaborating with startups, enterprises, and e-commerce businesses to deliver high-quality web solutions. Whether you need a modern web application, a dynamic user interface, or a pixel-perfect website, I can turn your ideas into reality.
+
+📩 Let’s discuss your project and create something amazing together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanpatel92)
